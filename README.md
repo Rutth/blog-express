@@ -4,5 +4,7 @@
 
 
 # Para utilizar
-> npm i
-> npm start
+- instalar MySql e MySql Workbench
+- caso a configuração esteja diferente, alterar os hosts
+- npm i
+- npm start
